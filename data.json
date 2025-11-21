@@ -1,0 +1,274 @@
+[
+  {
+    "id": 1,
+    "nome": "Shadow of The Colossus",
+    "descricao": "Shadow of the Colossus foi lançado originalmente para o PlayStation 2",
+    "ano": 2005,
+    "link": "https://pt.wikipedia.org/wiki/Shadow_of_the_Colossus",
+    "imagem": "img/shadow.jpeg"
+  },
+  {
+    "id": 2,
+    "nome": "The Last of Us",
+    "descricao": "The Last of Us foi Lançado em 14 de junho de 2013 para PlayStation 3",
+    "ano": 2013,
+    "link": "https://pt.wikipedia.org/wiki/The_Last_of_Us",
+    "imagem": "img/the_last.webp"
+  },
+  {
+    "id": 3,
+    "nome": "Uncharted: Among Thieves",
+    "descricao": "conta a história de Nathan Drake em sua busca pela lendária cidade de Shambhala e pela pedra Cintamani, seguindo os rastros de Marco Polo",
+    "ano": 2009,
+    "link": "https://pt.wikipedia.org/wiki/Uncharted_2:_Among_Thieves",
+    "imagem": "img/uncharted.webp"
+  },
+  {
+    "id": 4,
+    "nome": "God of War 2",
+    "descricao": "God of War II é sobre a vingança de Kratos, que, como o novo deus da guerra, é traído por Zeus",
+    "ano": 2007,
+    "link": "https://pt.wikipedia.org/wiki/God_of_War_II",
+    "imagem": "img/kratos.webp"
+  },
+  {
+    "id": 5,
+    "nome": "Medal of Honor Frontline",
+    "descricao": "Medal of Honor é um jogo de tiro em primeira pessoa ambientado na Segunda Guerra Mundial, onde os jogadores assumem o papel do tenente Jimmy Patterson, um agente de forças especiais em missões secretas atrás das linhas inimigas.",
+    "ano": 2002,
+    "link": "https://pt.wikipedia.org/wiki/Medal_of_Honor:_Frontline",
+    "imagem": "img/medalha.webp"
+  },
+  {
+    "id": 6,
+    "nome": "Tomb Raider",
+    "descricao": "Tomb Raider é um videojogo de ação-aventura, décimo título da série Tomb Raider e o quinto produzido pela Crystal Dynamics",
+    "ano": 2013,
+    "link": "https://pt.wikipedia.org/wiki/Tomb_Raider_(jogo_eletr%C3%B4nico_de_2013)",
+    "imagem": "img/tomb.webp"
+  },
+  {
+    "id": 7,
+    "nome": "Metal Gear Solid Snake Eater",
+    "descricao": "Ambientado em 1964, 31 anos antes dos eventos do Metal Gear original , a história gira em torno do agente da FOX com o codinome Naked Snake",
+    "ano": 2004,
+    "link": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_3:_Snake_Eater",
+    "imagem": "img/metal.jpg"
+  }, 
+  {
+    "id": 8,
+    "nome": "Call of Duty: Black Ops II",
+    "descricao": "Jogo de tiro em primeira pessoa com campanha futurista, modos zumbi e multiplayer competitivo.",
+    "ano": 2012,
+    "link": "https://www.callofduty.com/blackops2",
+    "imagem": "img/call 3.avif"
+  },
+  {
+    "id": 9,
+    "nome": "Call of Duty: Modern Warfare 2",
+    "descricao": "Continuação direta da saga Modern Warfare, com campanha intensa e multiplayer marcante.",
+    "ano": 2009,
+    "link": "https://www.callofduty.com/modernwarfare2",
+    "imagem": "img/call5.jpg"
+  },
+  {
+    "id": 10,
+    "nome": "Call of Duty: Modern Warfare 3",
+    "descricao": "Desfecho da trilogia Modern Warfare, com batalhas globais de grande escala.",
+    "ano": 2011,
+    "link": "https://www.callofduty.com/modernwarfare3",
+    "imagem": "img/call 6.png"
+  },
+  {
+    "id": 11,
+    "nome": "Infamous",
+    "descricao": "Jogo de ação em mundo aberto onde o protagonista desenvolve poderes elétricos e pode ser herói ou vilão.",
+    "ano": 2009,
+    "link": "https://www.playstation.com/pt-br/games/infamous/",
+    "imagem": "img/infamous.webp"
+  },
+  {
+    "id": 12,
+    "nome": "Red Dead Redemption",
+    "descricao": "Aventura de ação no Velho Oeste, acompanhando o ex-fora-da-lei John Marston em busca de redenção.",
+    "ano": 2010,
+    "link": "https://www.rockstargames.com/reddeadredemption",
+    "imagem": "img/RedDeadRedemption.jpg"
+  },
+  {
+    "id": 13,
+    "nome": "Batman: Arkham Asylum",
+    "descricao": "Batman enfrenta os vilões presos no Asilo Arkham em um combate estratégico e furtivo.",
+    "ano": 2009,
+    "link": "https://store.steampowered.com/app/35140/",
+    "imagem": "img/Batmanarkhama.png"
+  },
+  {
+    "id": 14,
+    "nome": "Batman: Arkham City",
+    "descricao": "O Cavaleiro das Trevas investiga uma grande conspiração em um distrito criminal de Gotham.",
+    "ano": 2011,
+    "link": "https://store.steampowered.com/app/200260/",
+    "imagem": "img/BatmanCity.jpg"
+  },
+  {
+    "id": 15,
+    "nome": "Metal Gear Solid V: The Phantom Pain",
+    "descricao": "Snake lidera uma operação clandestina enquanto busca vingança em um mundo aberto militar.",
+    "ano": 2015,
+    "link": "https://store.steampowered.com/app/287700/",
+    "imagem": "img/MetalGear5.jpg"
+  },
+  {
+    "id": 16,
+    "nome": "Prince of Persia: Warrior Within",
+    "descricao": "O Príncipe luta contra o destino em uma trama sombria com parkour e combate acrobático.",
+    "ano": 2004,
+    "link": "https://store.ubi.com/us/prince-of-persia-warrior-within/575fd3aa88a7e3cb5c8b4567.html",
+    "imagem": "img/princ.jpg"
+  },
+  {
+    "id": 17,
+    "nome": "Sniper Elite V2",
+    "descricao": "Jogo focado em tiro de precisão durante a Segunda Guerra Mundial, com o clássico Raio-X das balas.",
+    "ano": 2012,
+    "link": "https://store.steampowered.com/app/63380/",
+    "imagem": "img/sniperelite.webp"
+  },
+  {
+    "id": 18,
+    "nome": "DmC: Devil May Cry",
+    "descricao": "Reboot da franquia com Dante enfrentando demônios em combate estiloso e frenético.",
+    "ano": 2013,
+    "link": "https://store.steampowered.com/app/220440/",
+    "imagem": "img/maycry.jpeg"
+  },
+  {
+    "id": 19,
+    "nome": "Cabela's African Adventures",
+    "descricao": "Jogo de caça ambientado na savana africana com animais selvagens e exploração.",
+    "ano": 2013,
+    "link": "https://www.activision.com/games/cabelas/cabelas-african-adventures",
+    "imagem": "img/cabelas.jpeg"
+  },
+  {
+    "id": 20,
+    "nome": "The Evil Within",
+    "descricao": "Terror de sobrevivência criado por Shinji Mikami, com monstros grotescos e recursos limitados.",
+    "ano": 2014,
+    "link": "https://store.steampowered.com/app/268050/",
+    "imagem": "img/TheWithin.webp"
+  },
+  {
+    "id": 21,
+    "nome": "Resident Evil 6",
+    "descricao": "Quatro campanhas interligadas em um mundo tomado pelo bioterrorismo.",
+    "ano": 2012,
+    "link": "https://store.steampowered.com/app/221040/",
+    "imagem": "img/residentevil6.webp"
+  },
+  {
+    "id": 22,
+    "nome": "Resident Evil 5",
+    "descricao": "Chris Redfield enfrenta uma ameaça biológica na África, com foco em ação cooperativa.",
+    "ano": 2009,
+    "link": "https://store.steampowered.com/app/21690/",
+    "imagem": "img/resident-evil-5-.webp"
+  },
+  {
+    "id": 23,
+    "nome": "Far Cry 3",
+    "descricao": "Jason Brody tenta sobreviver em uma ilha dominada por piratas e chefões insanos.",
+    "ano": 2012,
+    "link": "https://store.ubisoft.com/us/far-cry-3/575ffea288a7e3e0468b4569.html",
+    "imagem": "img/far-cry-3.webp"
+  },
+  {
+    "id": 24,
+    "nome": "Far Cry 4",
+    "descricao": "Ajay Ghale se envolve em uma guerra civil no fictício país de Kyrat.",
+    "ano": 2014,
+    "link": "https://store.ubisoft.com/us/far-cry-4/575ffd2f88a7e3e0468b456a.html",
+    "imagem": "img/far-cry-4-.webp"
+  },
+  {
+    "id": 25,
+    "nome": "BioShock Infinite",
+    "descricao": "Booker DeWitt viaja para a cidade flutuante de Columbia e encontra mistérios envolvendo Elizabeth.",
+    "ano": 2013,
+    "link": "https://store.steampowered.com/app/8870/",
+    "imagem": "img/bioshock.jpg"
+  },
+  {
+    "id": 26,
+    "nome": "Assassin's Creed IV: Black Flag",
+    "descricao": "A aventura de Edward Kenway como pirata e assassino no Caribe do século XVIII.",
+    "ano": 2013,
+    "link": "https://store.ubisoft.com/us/assassins-creed-iv-black-flag/575ffdcd88a7e3e0468b4570.html",
+    "imagem": "img/assblackfla.avif"
+  },
+  {
+    "id": 27,
+    "nome": "Assassin's Creed III",
+    "descricao": "Connor Kenway luta durante a Revolução Americana em busca de justiça.",
+    "ano": 2012,
+    "link": "https://store.ubisoft.com/us/assassins-creed-iii/575ffd8888a7e3e0468b456f.html",
+    "imagem": "img/asscred3.jpg"
+  },
+  {
+    "id": 28,
+    "nome": "Assassin's Creed Rogue",
+    "descricao": "Shay Cormac abandona a Irmandade e se torna um Caçador de Assassinos.",
+    "ano": 2014,
+    "link": "https://store.ubisoft.com/us/assassins-creed-rogue/575ffdcc88a7e3e0468b456f.html",
+    "imagem": "img/assassins-creed-rogue.webp"
+  },
+  {
+    "id": 29,
+    "nome": "Dead Space",
+    "descricao": "Isaac Clarke enfrenta Necromorphs em uma nave infestada, combinando horror e ficção científica.",
+    "ano": 2008,
+    "link": "https://store.steampowered.com/app/17470/",
+    "imagem": "img/deadspace3.jpg"
+  },
+  {
+    "id": 30,
+    "nome": "Battlefield 4",
+    "descricao": "Conflitos modernos intensos com batalhas terrestres, aéreas e destruição dinâmica.",
+    "ano": 2013,
+    "link": "https://www.ea.com/games/battlefield/battlefield-4",
+    "imagem": "img/batlefild4.jpeg"
+  },
+  {
+    "id": 31,
+    "nome": "Battlefield 3",
+    "descricao": "Batalhas realistas com foco no multiplayer tático e gráficos avançados para a época.",
+    "ano": 2011,
+    "link": "https://www.ea.com/games/battlefield/battlefield-3",
+    "imagem": "img/BATTLEFIELD-3.jpg"
+  },
+  {
+    "id": 32,
+    "nome": "Dead Island: Riptide",
+    "descricao": "Um mundo aberto tropical infestado de zumbis com cooperação multiplayer.",
+    "ano": 2013,
+    "link": "https://store.steampowered.com/app/216250/",
+    "imagem": "img/dead_sland.webp"
+  },
+  {
+    "id": 33,
+    "nome": "Crysis 3",
+    "descricao": "Shooter futurista conhecido pelos gráficos avançados, com o soldado Prophet e sua Nanosuit.",
+    "ano": 2013,
+    "link": "https://www.ea.com/games/crysis/crysis-3",
+    "imagem": "img/crysis3.png"
+  },
+  {
+    "id": 34,
+    "nome": "Call of Juarez: Bound in Blood",
+    "descricao": "Prequela faroeste da série, acompanhando os irmãos McCall durante a Guerra Civil Americana.",
+    "ano": 2009,
+    "link": "https://store.steampowered.com/app/21980/",
+    "imagem": "img/call_of_juarez.jpg"
+  }
+]
